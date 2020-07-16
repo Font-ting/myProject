@@ -1,0 +1,278 @@
+{
+  "success": true,
+  "msg": "success",
+  "errorCode": 1,
+  "data": {
+    "tuiScore": {
+      "id": 2,
+      "tuiScore": 7.4,
+      "star5": 15,
+      "star4": 25,
+      "star3": 7,
+      "star2": 10,
+      "star1": 20,
+      "totalTimes": 77,
+      "updateTime": null,
+      "addTime": null
+    },
+    "hotReviewDO": [
+      {
+        "review": {
+          "id": 17,
+          "movieId": 2,
+          "answerUserId": 1,
+          "answer": null,
+          "simpleAnswer": "这个电影很不错14543",
+          "score": 4.0,
+          "status": 0,
+          "commentTimes": 50,
+          "upTimes": 900,
+          "updateTime": "2020-07-09T16:26:54.000+0000",
+          "userIp": null,
+          "addTime": "2020-07-09T16:26:52.000+0000"
+        },
+        "user": {
+          "userId": 1,
+          "userName": "高考考完就是玩",
+          "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+        }
+      },
+      {
+        "review": {
+          "id": 14,
+          "movieId": 2,
+          "answerUserId": 1,
+          "answer": null,
+          "simpleAnswer": "这个电影很不错1754",
+          "score": 6.9,
+          "status": 0,
+          "commentTimes": 50,
+          "upTimes": 22,
+          "updateTime": "2020-07-09T16:26:54.000+0000",
+          "userIp": null,
+          "addTime": "2020-07-09T16:26:52.000+0000"
+        },
+        "user": {
+          "userId": 1,
+          "userName": "高考考完就是玩",
+          "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+        }
+      }
+    ],
+    "reviewDO": {
+      "movieReviewDOList": [
+        {
+          "review": {
+            "id": 23,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错17895",
+            "score": 7.5,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 10,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 22,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错154389",
+            "score": 7.8,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 21,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 21,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错18",
+            "score": 9.0,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 10,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 20,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错18964",
+            "score": 6.7,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 10,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 19,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错14564565",
+            "score": 4.5,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 25,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 18,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错178542",
+            "score": 5.0,
+            "status": 0,
+            "commentTimes": 0,
+            "upTimes": 10,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 17,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错14543",
+            "score": 4.0,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 900,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 16,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错14343",
+            "score": 4.1,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 10,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 15,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错145343",
+            "score": 5.5,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 10,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        },
+        {
+          "review": {
+            "id": 14,
+            "movieId": 2,
+            "answerUserId": 1,
+            "answer": null,
+            "simpleAnswer": "这个电影很不错1754",
+            "score": 6.9,
+            "status": 0,
+            "commentTimes": 50,
+            "upTimes": 22,
+            "updateTime": "2020-07-09T16:26:54.000+0000",
+            "userIp": null,
+            "addTime": "2020-07-09T16:26:52.000+0000"
+          },
+          "user": {
+            "userId": 1,
+            "userName": "高考考完就是玩",
+            "photoAddress": "http://cdn-r-test.oss-cn-hangzhou.aliyuncs.com/pro/image/userImage/1f51eda4aa21365bf925f84513538404.jpg"
+          }
+        }
+      ],
+      "hasMore": true
+    }
+  }
+}

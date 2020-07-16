@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "msg": "success",
+  "errorCode": 1,
+  "data": {
+    "detail": {
+      "id": 2,
+      "name": "狮子王真人版",
+      "type": 31,
+      "cover": "904f062ca9ae309fa02bd5937547f8ce.jpg",
+      "status": 1,
+      "desc": "广袤无垠的非洲大草原，祥和奋进的荣耀王国迎来了光辉时刻。威严而勇敢的狮子国王木法沙（詹姆斯·厄尔·琼斯 James Earl Jones 配音）与王后沙拉碧（阿尔法·伍达德 Alfre Woodard 配音），终于迎来了他们的儿子——王国未来的王者辛巴（唐纳德·格洛弗 Donald Glover 配音）——的诞生。在所有的动物都心悦诚服跪拜辛巴王子之际，只有木法沙的弟弟刀疤（切瓦特·埃加福 Chiwetel Ejiofor 配音）妒火中烧。他久久觊觎哥哥的王位，而今更是将辛巴视为眼中钉肉中刺。经过一番策划，刀疤害死了木法沙，并将罪名推给了侄子，进而将王位攫取到自己手中。\r\n　　荣耀王国从此被黑暗笼罩，而遭到流放的辛巴是否还能回到这个他度过快乐童年的国度呢？",
+      "tuiDesc": "如果说25年前，动画电影被《狮子王》重新定义了，25年后的它又要重新定义电影拍摄了吧。一部没有真实动物、任何演员，甚至没有摄影机的电影，完全复刻着最真实的电影拍摄，而且相比下来更没有妥协。比起那些狂轰滥炸观感的特效，它甚至显得太低调了，这也正是它最革命之处了。“真兽版”注定比动画版少了那些极致的形式主义，但细节和角色都处理的更丰满了，能带给观众的情绪也更足了。刀疤和娜娜两个角色得到更完整的延伸，这点比前作要好，至于彭彭和丁满两个被疯狂加戏的活宝，让我觉得都可以出外传了！全片最神的一场戏，当属辛巴的狮毛漂流记",
+      "tuiImages": "\"\"",
+      "tuiVideos": "\"\"",
+      "showDate": "2020-05-17T05:00:00.000+0000",
+      "regions": "1,2",
+      "directorId": 1,
+      "directorName": "杨荔钠",
+      "actorIds": "1,2",
+      "actorNames": "郝蕾,金燕玲,曲隽希",
+      "tuiScore": 8.0,
+      "doubanScore": 7.2,
+      "linkType": 2,
+      "jumpLink": "\"\"",
+      "collectTimes": 100,
+      "reviewTimes": 15,
+      "addTime": "2020-06-17T13:15:41.000+0000",
+      "updateTime": "2020-06-17T13:15:43.000+0000"
+    },
+    "actorList": [
+      {
+        "id": 1,
+        "name": "王宝强",
+        "avatar": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/101f2f4758b240af956f0c6ac528fa3b.png",
+        "status": 0,
+        "desc": "好演员",
+        "addTime": null,
+        "updateTime": null
+      },
+      {
+        "id": 1,
+        "name": "王宝强",
+        "avatar": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/101f2f4758b240af956f0c6ac528fa3b.png",
+        "status": 0,
+        "desc": "好演员",
+        "addTime": null,
+        "updateTime": null
+      },
+      {
+        "id": 1,
+        "name": "王宝强",
+        "avatar": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/101f2f4758b240af956f0c6ac528fa3b.png",
+        "status": 0,
+        "desc": "好演员",
+        "addTime": null,
+        "updateTime": null
+      },
+      {
+        "id": 1,
+        "name": "王宝强",
+        "avatar": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/101f2f4758b240af956f0c6ac528fa3b.png",
+        "status": 0,
+        "desc": "好演员",
+        "addTime": null,
+        "updateTime": null
+      }
+    ],
+    "director": {
+      "id": 1,
+      "name": "李思诚",
+      "avatar": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/343deaa70a544f738a765db3e52137fd.png",
+      "status": 0,
+      "desc": "好导演",
+      "addTime": null,
+      "updateTime": null
+    },
+    "tuiVideos": [
+      {
+        "id": 0,
+        "movieId": 2,
+        "status": 0,
+        "type": 1,
+        "rank": 1,
+        "cover": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/271c8b728df646f8a8c5b1c0921087a6.png",
+        "videoUrl": "1235.mp4",
+        "zanTimes": 100,
+        "addTime": null,
+        "updateTime": null
+      },
+      {
+        "id": 0,
+        "movieId": 2,
+        "status": 0,
+        "type": 1,
+        "rank": 1,
+        "cover": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/271c8b728df646f8a8c5b1c0921087a6.png",
+        "videoUrl": "1235.mp4",
+        "zanTimes": 100,
+        "addTime": null,
+        "updateTime": null
+      }
+    ],
+    "tuiImages": [
+      {
+        "id": 0,
+        "movieId": 2,
+        "status": 0,
+        "type": 2,
+        "rank": 1,
+        "cover": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/661503557ec8419eb94ef482132cf36c.png",
+        "videoUrl": null,
+        "zanTimes": 10,
+        "addTime": null,
+        "updateTime": null
+      },
+      {
+        "id": 0,
+        "movieId": 2,
+        "status": 0,
+        "type": 2,
+        "rank": 1,
+        "cover": "http://intern-test.oss-cn-hangzhou.aliyuncs.com/image/m/661503557ec8419eb94ef482132cf36c.png",
+        "videoUrl": null,
+        "zanTimes": 10,
+        "addTime": null,
+        "updateTime": null
+      }
+    ],
+    "typeName": "喜剧",
+    "timeInMinite": "128",
+    "collected": true
+  }
+}
